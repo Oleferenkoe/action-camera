@@ -4,7 +4,7 @@
 
 iCatch-master - это приложение на андроид с исходным кодом, взят из репозитория https://github.com/AizazAhmad1/iCatch.git .
 
-apk - само приложения.
+Cамо приложения https://play.google.com/store/apps/details?id=com.icatch.ismartdv2016
 
 log c коментариями которые смог понять, если нужны больше то без проблем выложу.
 
