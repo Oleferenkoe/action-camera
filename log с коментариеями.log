@@ -1,0 +1,524 @@
+2023-04-09 21:08:40:040	 AppInfo:[initConfiguration]2023-04-09 21@08@40
+2023-04-09 21:08:40:040	 AppInfo:[initConfiguration]V1.4.22
+2023-04-09 21:08:40:040	 AppInfo:[AppLog]Build.VERSION.SDK_INT:26
+2023-04-09 21:08:40:040	 AppInfo:[AppLog]Build.VERSION.CODENAME:REL
+2023-04-09 21:08:40:040	 AppInfo:[AppLog]Build.VERSION.INCREMENTAL:375(C10)
+2023-04-09 21:08:40:040	 AppInfo:[AppLog]Build.VERSION.BOARD:hi6250
+2023-04-09 21:08:40:040	 AppInfo:[AppLog]Build.VERSION.ID:HONORPRA-TL10
+2023-04-09 21:08:40:040	 AppInfo:[AppLog]Build.VERSION.MODEL:PRA-TL10
+2023-04-09 21:08:40:040	 AppInfo:[AppLog]Build.VERSION.MANUFACTURER:HUAWEI
+2023-04-09 21:08:40:040	 AppInfo:[AppLog]Build.VERSION.PRODUCT:PRA-TL10
+2023-04-09 21:08:40:040	 AppInfo:[AppLog]Build.VERSION.RELEASE:8.0.0
+2023-04-09 21:08:40:040	 AppInfo:[AppLog]Build.VERSION.CODENAME:REL
+2023-04-09 21:08:40:040	 AppInfo:[AppLog]Build.VERSION.INCREMENTAL:375(C10)
+2023-04-09 21:08:40:040	 AppInfo:[AppLog]cpu type is arm64-v8a
+2023-04-09 21:08:40:040	 AppInfo:[ConfigureInfo]GlobalInfo.saveAppLog..........=true
+2023-04-09 21:08:40:040	 AppInfo:[StorageUtil]start getDownloadVideoPath
+2023-04-09 21:08:40:040	 AppInfo:[SystemInfo]getSDFreeSize=6558167040
+2023-04-09 21:08:40:040	 AppDebug:[sdkLog]start enable sdklog
+2023-04-09 21:08:40:040	 AppDebug:[sdkLog]end enable sdklog
+2023-04-09 21:08:40:040	 AppInfo:[ConfigureInfo]GlobalInfo.saveSDKLog..........=true
+2023-04-09 21:08:40:040	 AppInfo:[ConfigureInfo] end isSupportAutoReconnection = false
+2023-04-09 21:08:40:040	 AppDebug:[ConfigureInfo]broadcast..........=false
+2023-04-09 21:08:40:040	 AppDebug:[ConfigureInfo]GlobalInfo.isSupportBroadcast..........=false
+2023-04-09 21:08:40:040	 AppInfo:[ConfigureInfo]supportSetting..........=true
+2023-04-09 21:08:40:040	 AppInfo:[ConfigureInfo]supportSetting..........=true
+2023-04-09 21:08:40:040	 AppInfo:[ConfigureInfo]GlobalInfo.isSupportSetting..........=true
+2023-04-09 21:08:40:040	 AppDebug:[ConfigureInfo]disconnectRetry=3
+2023-04-09 21:08:40:040	 AppDebug:[ConfigureInfo]retryCount=3
+2023-04-09 21:08:40:040	 AppInfo:[ConfigureInfo]enableSoftwareDecoder=false
+2023-04-09 21:08:40:040	 AppInfo:[ConfigureInfo]disableAudio=true
+2023-04-09 21:08:40:040	 AppInfo:[ConfigureInfo]AppInfo.disableAudio..........=true
+2023-04-09 21:08:40:040	 AppInfo:[ConfigureInfo]youtubeLive=false
+2023-04-09 21:08:40:040	 AppInfo:[ConfigureInfo]AppInfo.youtubeLive..........=false
+2023-04-09 21:08:40:040	 AppInfo:[ConfigureInfo]AppInfo.displayDecodeTime..........=false
+2023-04-09 21:08:40:040	 AppDebug:[LaunchPresenter]showLicenseAgreementDialog isAgreeLicenseAgreement=true
+2023-04-09 21:08:40:040	 AppDebug:[LaunchPresenter]showLicenseAgreementDialog Version =1.3
+2023-04-09 21:08:40:040	 AppDebug:[SystemInfo]isGooglePlayServicesAvailable:true
+2023-04-09 21:08:40:040	 AppDebug:[LaunchActivity]start checkForConsent 
+2023-04-09 21:08:40:040	 AppDebug:[LaunchActivity]onStart
+2023-04-09 21:08:40:040	 AppInfo:[LaunchActivity]Start onResume
+2023-04-09 21:08:40:040	 AppDebug:[WifiListener]registerReceiver
+2023-04-09 21:08:40:040	 AppDebug:[DatabaseHelper]readCamera cameraDBList=[com.icatch.ismartdv2016.Beans.CameraTable@46c2fc7, com.icatch.ismartdv2016.Beans.CameraTable@38929f4, com.icatch.ismartdv2016.Beans.CameraTable@2e7651d]
+2023-04-09 21:08:40:040	 AppDebug:[DatabaseHelper]readCamera cameraDBList size=3
+2023-04-09 21:08:40:040	 AppInfo:[MWifiManager]getSsid ssid:DiCam-810_65F963
+2023-04-09 21:08:40:040	 AppDebug:[DatabaseHelper]readCamera camSlotList=[com.icatch.ismartdv2016.Beans.CameraSlot@ec31392, com.icatch.ismartdv2016.Beans.CameraSlot@df20163, com.icatch.ismartdv2016.Beans.CameraSlot@208f160]
+2023-04-09 21:08:40:040	 AppDebug:[GlobalInfo]getCurrentApp activity=com.icatch.ismartdv2016.View.Activity.LaunchActivity@1ffb1e7
+2023-04-09 21:08:40:040	 AppInfo:[StorageUtil]start getDownloadVideoPath
+2023-04-09 21:08:40:040	 AppInfo:[MFileTools]start getPhotosOrderByDate
+2023-04-09 21:08:40:040	 AppInfo:[FileTools]files.size() = 2
+2023-04-09 21:08:40:040	 AppInfo:[MFileTools]end getPhotosOrderByDate
+2023-04-09 21:08:40:040	 AppInfo:[StorageUtil]start getDownloadVideoPath
+2023-04-09 21:08:40:040	 AppInfo:[MFileTools]Start getPhotosSize filePath=/storage/emulated/0/DCIM/iSmartDV/
+2023-04-09 21:08:40:040	 AppInfo:[MFileTools]start getPhotosOrderByDate
+2023-04-09 21:08:40:040	 AppInfo:[FileTools]files.size() = 2
+2023-04-09 21:08:40:040	 AppInfo:[MFileTools]end getPhotosOrderByDate
+2023-04-09 21:08:40:040	 AppInfo:[MFileTools]End getPhotosSize size=0
+2023-04-09 21:08:40:040	 AppInfo:[StorageUtil]start getDownloadVideoPath
+2023-04-09 21:08:40:040	 AppInfo:[FileTools]files.size() = 2
+2023-04-09 21:08:40:040	 AppInfo:[MFileTools]getNewestVideoFromDirectory path =/storage/emulated/0/DCIM/iSmartDV/20230218_193328-1.MOV
+2023-04-09 21:08:40:040	 AppDebug:[LruCacheTool]getBitmapFromLruCache key=/storage/emulated/0/DCIM/iSmartDV/20230218_193328-1.MOV bitmap=null
+2023-04-09 21:08:40:040	 AppDebug:[ThumbnailOperation]start getVideoThumbnail
+2023-04-09 21:08:40:040	 AppInfo:[BitmapTools]start getVideoThumbnail videoPath=/storage/emulated/0/DCIM/iSmartDV/20230218_193328-1.MOV
+2023-04-09 21:08:41:041	 AppInfo:[BitmapTools]End getVideoThumbnail bitmap=android.graphics.Bitmap@c3bc2f2
+2023-04-09 21:08:41:041	 AppDebug:[ThumbnailOperation]end getVideoThumbnail bitmap=android.graphics.Bitmap@c3bc2f2
+2023-04-09 21:08:41:041	 AppDebug:[LruCacheTool]getBitmapFromLruCache key=/storage/emulated/0/DCIM/iSmartDV/20230218_193328-1.MOV bitmap=null
+2023-04-09 21:08:41:041	 AppDebug:[LruCacheTool]addBitmapToLruCache key=/storage/emulated/0/DCIM/iSmartDV/20230218_193328-1.MOV size=64800 bitmap=android.graphics.Bitmap@c3bc2f2
+2023-04-09 21:08:41:041	 AppInfo:[StorageUtil]start getDownloadVideoPath
+2023-04-09 21:08:41:041	 AppInfo:[MFileTools]Start getVideosSize filePath=/storage/emulated/0/DCIM/iSmartDV/
+2023-04-09 21:08:41:041	 AppInfo:[FileTools]files.size() = 2
+2023-04-09 21:08:41:041	 AppInfo:[MFileTools]End getVideosSize size=2
+2023-04-09 21:08:41:041	 AppInfo:[LaunchActivity]End onResume
+2023-04-09 21:08:41:041	 AppDebug:[WifiListener]连接到网络 "DiCam-810_65F963"
+2023-04-09 21:08:41:041	 AppDebug:[WifiListener]系统开启wifi
+2023-04-09 21:08:41:041	 AppError:[LaunchActivity] onFailedToUpdateConsentInfo Unable to resolve host "adservice.google.com": No address associated with hostname
+2023-04-09 21:08:41:041	 AppDebug:[LaunchActivity]onPrepareOptionsMenu
+2023-04-09 21:08:41:041	 AppInfo:[LaunchActivity]setMenuSetIpVisibility visible=false menuSetIp=Input IP
+2023-04-09 21:08:42:042	 AppInfo:[MWifiManager]getSsid ssid:DiCam-810_65F963
+2023-04-09 21:08:43:043	 AppDebug:[LaunchPresenter]launchCamera(final int position, FragmentManager fm)
+2023-04-09 21:08:43:043	 AppDebug:[WifiCheck]isWifiConnected
+2023-04-09 21:08:43:043	 AppDebug:[WifiCheck]getActiveNetworkInfo and network is  connected : false
+2023-04-09 21:08:43:043	 AppDebug:[WifiCheck]getActiveNetworkInfo and Wifi connected : false
+2023-04-09 21:08:43:043	 AppDebug:[WifiCheck]WIFI connected: false
+2023-04-09 21:08:43:043	 AppDebug:[WifiCheck]isMobileConnected
+2023-04-09 21:08:43:043	 AppInfo:[WifiCheck]ActiveWIFINetwork
+2023-04-09 21:08:43:043	 AppInfo:[WifiCheck]Build.VERSION.SDK_INT >= 24
+2023-04-09 21:08:43:043	 AppDebug:[WifiCheck]isWifiConnected
+2023-04-09 21:08:43:043	 AppInfo:[WifiCheck]Depending on function network and transfer type to find out the comfortable netwrok
+2023-04-09 21:08:43:043	 AppDebug:[WifiCheck]getActiveNetworkInfo and network is  connected : false
+2023-04-09 21:08:43:043	 AppInfo:[WifiCheck]binding network use bindProcessToNetwork( network ) method 
+2023-04-09 21:08:43:043	 AppDebug:[WifiCheck]getActiveNetworkInfo and Wifi connected : false
+2023-04-09 21:08:43:043	 AppDebug:[WifiCheck]WIFI connected: false
+2023-04-09 21:08:43:043	 AppInfo:[WifiCheck]connectivityManager.unregisterNetworkCallback( this );
+2023-04-09 21:08:43:043	 AppInfo:[MWifiManager]getSsid ssid:DiCam-810_65F963
+2023-04-09 21:08:43:043	 AppDebug:[MWifiManager]getIp ip=192.168.1.1
+2023-04-09 21:08:43:043	 AppInfo:[LaunchPresenter]isWifiConnect() == true
+2023-04-09 21:08:43:043	 AppDebug:[SDKSession]start to enablePTPIP
+2023-04-09 21:08:43:043	 AppDebug:[SDKSession]-----start to prepareSession!
+2023-04-09 21:08:44:044	 AppDebug:[SDKSession]prepareSession =true
+2023-04-09 21:08:44:044	 AppInfo:[SDKSession]Start checkWifiConnection
+2023-04-09 21:08:44:044	 AppInfo:[SDKSession]End checkWifiConnection,retValue=true
+2023-04-09 21:08:44:044	 AppInfo:[MyCamera]Start initCamera
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapStatic]Start initPropertyHashMap
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapStatic]End initPropertyHashMap
+2023-04-09 21:08:44:044	 AppInfo:[MyCamera]Start initProperty
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin getSupportedWhiteBalances
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedWhiteBalances list=[]
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin getsupportedBurstNums
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getsupportedBurstNums list.size() =0
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin getsupportedDateStamps
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getsupportedDateStamps list.size() =3
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin getSupportedLightFrequencys
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedLightFrequencys list=[2, 0, 1]
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]1122 begin getSupportedPropertyValues propertyId =20498
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedPropertyValues list.size() =3
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]delyaList.get(ii) ==2000
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]delyaList.get(ii) ==10000
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]delyaList.get(ii) ==0
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin getSupportedCaptureDelays
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedCaptureDelays list=[2000, 10000, 0]
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedCaptureDelays list value=2000
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedCaptureDelays list value=10000
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedCaptureDelays list value=0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=20498 uiStringInSettingString=2s
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=20498 uiStringInSettingString=10s
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=20498 uiStringInSettingString=OFF
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin getSupportedVideoSizes
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin getSupportedVideoSizes list=[3840x2160 60, 3840x2160 30, 2704x1520 30, 1920x1080 120, 1920x1080 60, 1920x1080 30, 1280x720 240]
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]videoSizeList_0 = 3840x2160 60
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getFullName fullName=3840x2160 60fps
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getAbbreviation abbreviation=4K60
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]videoSizeList_1 = 3840x2160 30
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getFullName fullName=3840x2160 30fps
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getAbbreviation abbreviation=4K30
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]videoSizeList_2 = 2704x1520 30
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getFullName fullName=2704x1520 30fps
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getAbbreviation abbreviation=2.7K30
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]videoSizeList_3 = 1920x1080 120
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getFullName fullName=1920x1080 120fps
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getAbbreviation abbreviation=FHD120
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]videoSizeList_4 = 1920x1080 60
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getFullName fullName=1920x1080 60fps
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getAbbreviation abbreviation=FHD60
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]videoSizeList_5 = 1920x1080 30
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getFullName fullName=1920x1080 30fps
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getAbbreviation abbreviation=FHD30
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]videoSizeList_6 = 1280x720 240
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getFullName fullName=1280x720 240fps
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]getAbbreviation abbreviation=HD240
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]end initVideoSizeMap videoSizeList size=7 videoSizeMap size=7
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin getSupportedVideoSizes
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin getSupportedVideoSizes list=[3840x2160 60, 3840x2160 30, 2704x1520 30, 1920x1080 120, 1920x1080 60, 1920x1080 30, 1280x720 240]
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]begin initImageSizeMap
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes list.size =6
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes value=4608x3456
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes value=4000x3000
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes value=3648x2736
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes value=3264x2448
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes value=2560x1920
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes value=2048x1536
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]imageSize =16M(4608x3456)
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]imageSize =12M(4000x3000)
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]imageSize =10M(3648x2736)
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]imageSize =8M(3264x2448)
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]imageSize =5M(2560x1920)
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]imageSize =3M(2048x1536)
+2023-04-09 21:08:44:044	 AppInfo:[PropertyHashMapDynamic]end initImageSizeMap imageSizeMap =6
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes list.size =6
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes value=4608x3456
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes value=4000x3000
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes value=3648x2736
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes value=3264x2448
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes value=2560x1920
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedImageSizes value=2048x1536
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]1122 begin getSupportedPropertyValues propertyId =55072
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedPropertyValues list.size() =0
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]1122 begin getSupportedPropertyValues propertyId =55072
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedPropertyValues list.size() =0
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]1122 begin getSupportedPropertyValues propertyId =55073
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedPropertyValues list.size() =0
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]1122 begin getSupportedPropertyValues propertyId =55073
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedPropertyValues list.size() =0
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]1122 begin getSupportedPropertyValues propertyId =55075
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedPropertyValues list.size() =7
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]start getExposureCompensation value=-2147483645
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]End getExposureCompensation ret=EV -3.0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]exposureCompensationList ii=0 value=-2147483645 temp=EV -3.0
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]start getExposureCompensation value=-2147483646
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]End getExposureCompensation ret=EV -2.0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]exposureCompensationList ii=1 value=-2147483646 temp=EV -2.0
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]start getExposureCompensation value=-2147483647
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]End getExposureCompensation ret=EV -1.0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]exposureCompensationList ii=2 value=-2147483647 temp=EV -1.0
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]start getExposureCompensation value=0
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]End getExposureCompensation ret=EV 0.0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]exposureCompensationList ii=3 value=0 temp=EV 0.0
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]start getExposureCompensation value=1
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]End getExposureCompensation ret=EV 1.0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]exposureCompensationList ii=4 value=1 temp=EV 1.0
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]start getExposureCompensation value=2
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]End getExposureCompensation ret=EV 2.0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]exposureCompensationList ii=5 value=2 temp=EV 2.0
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]start getExposureCompensation value=3
+2023-04-09 21:08:44:044	 AppDebug:[ConvertTools]End getExposureCompensation ret=EV 3.0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]exposureCompensationList ii=6 value=3 temp=EV 3.0
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]1122 begin getSupportedPropertyValues propertyId =55075
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedPropertyValues list.size() =7
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=55075 uiStringInSettingString=EV -3.0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=55075 uiStringInSettingString=EV -2.0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=55075 uiStringInSettingString=EV -1.0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=55075 uiStringInSettingString=EV 0.0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=55075 uiStringInSettingString=EV 1.0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=55075 uiStringInSettingString=EV 2.0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=55075 uiStringInSettingString=EV 3.0
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]1122 begin getSupportedPropertyValues propertyId =55077
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedPropertyValues list.size() =4
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]videoFileLengthList ii=0 value=0
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]videoFileLengthList ii=1 value=60
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]videoFileLengthList ii=2 value=180
+2023-04-09 21:08:44:044	 AppDebug:[PropertyHashMapDynamic]videoFileLengthList ii=3 value=300
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]1122 begin getSupportedPropertyValues propertyId =55077
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedPropertyValues list.size() =4
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=55077 uiStringInSettingString=Unlimited
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=55077 uiStringInSettingString=1MIN
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=55077 uiStringInSettingString=3MIN
+2023-04-09 21:08:44:044	 AppDebug:[PropertyTypeInteger]propertyId=55077 uiStringInSettingString=5MIN
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]1122 begin getSupportedPropertyValues propertyId =55078
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedPropertyValues list.size() =0
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]1122 begin getSupportedPropertyValues propertyId =55078
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedPropertyValues list.size() =0
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]start getResolution
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getResolution retList.size() =10
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]start getResolution
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getResolution retList.size() =10
+2023-04-09 21:08:44:044	 AppInfo:[TimeLapseDuration]begin initTimeLapseDuration
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin cameraModeSupport  mode=ICH_MODE_TIMELAPSE
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin getSupportedModes
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedModes list=[ICH_MODE_VIDEO, ICH_MODE_CAMERA]
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end cameraModeSupport retValue =false
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 55081
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin getSupportedProperties
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end getSupportedProperties supportedPropertieList=[54279, 54278, 20481, 20484, 20501, 20502, 54790, 54791, 54793, 54806, 20487, 20490, 20491, 20492, 20494, 20495, 20496, 20499, 54788, 54803, 20493, 20498, 54800, 20510, 20511, 55040, 55044, 55075, 55077, 55135, 55211, 55212, 55213, 55214, 55280, 55292, 55293, 55294, 55295, 55297, 55358, 55359, 54019, 53792, 20483, 54789, 20497]
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end hasFuction retValue =false
+2023-04-09 21:08:44:044	 AppInfo:[MyCamera]End initProperty
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 20497
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]end hasFuction retValue =true
+2023-04-09 21:08:44:044	 AppInfo:[CameraProperties]start setCameraDate date = 20230409T210844.0
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]end setCameraDate retValue =true
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 55358
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]end hasFuction retValue =true
+2023-04-09 21:08:45:045	 AppInfo:[CameraFixedInfo]begin getCameraName
+2023-04-09 21:08:45:045	 AppInfo:[CameraFixedInfo]end getCameraName name =V37 kit
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]start setCameraDateTimeZone date = +0300
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]end setCameraDateTimeZone retValue =true
+2023-04-09 21:08:45:045	 AppInfo:[MWifiManager]getSsid ssid:DiCam-810_65F963
+2023-04-09 21:08:45:045	 AppDebug:[DatabaseHelper]updateCameraName position=1
+2023-04-09 21:08:45:045	 AppInfo:[MWifiManager]getSsid ssid:DiCam-810_65F963
+2023-04-09 21:08:45:045	 AppDebug:[GlobalInfo]setSsid = DiCam-810_65F963
+2023-04-09 21:08:45:045	 AppInfo:[BasePresenter]intent:start redirectToAnotherActivity class =com.icatch.ismartdv2016.View.Activity.PreviewActivity
+2023-04-09 21:08:45:045	 AppDebug:[WifiListener]unregisterReceiver
+2023-04-09 21:08:45:045	 AppDebug:[PreviewActivity]1122 onCreate
+2023-04-09 21:08:45:045	 AppDebug:[ExitApp]addActivity activity=PreviewActivity
+2023-04-09 21:08:45:045	 AppDebug:[ExitApp]addActivity activityList size=2
+2023-04-09 21:08:45:045	 AppInfo:[MPreview]create MPreview
+2023-04-09 21:08:45:045	 AppDebug:[WifiListener]registerReceiver
+2023-04-09 21:08:45:045	 AppDebug:[PreviewActivity]onStart
+2023-04-09 21:08:45:045	 AppInfo:[PreviewPresenter]start initUI 
+2023-04-09 21:08:45:045	 AppDebug:[PreviewActivity]1122 onResume
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 55280
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]end hasFuction retValue =true
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]start setCaptureDelayMode value = 1
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]end setCaptureDelayMode retValue =false
+2023-04-09 21:08:45:045	 AppInfo:[PreviewPresenter]initPreview curMode=0
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]start getMaxZoomRatio
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]end getMaxZoomRatio retValue =40
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]start getCurrentZoomRatio
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]end getCurrentZoomRatio retValue =10
+2023-04-09 21:08:45:045	 AppInfo:[ZoomView]updateZoomBarValue value =10
+2023-04-09 21:08:45:045	 AppInfo:[CameraState]begin isMovieRecording
+2023-04-09 21:08:45:045	 AppInfo:[CameraState]end isMovieRecording retValue=false
+2023-04-09 21:08:45:045	 AppInfo:[CameraState]begin isTimeLapseVideoOn
+2023-04-09 21:08:45:045	 AppInfo:[CameraState]end isTimeLapseVideoOn retValue=false
+2023-04-09 21:08:45:045	 AppInfo:[CameraState]begin isTimeLapseStillOn
+2023-04-09 21:08:45:045	 AppInfo:[CameraState]end isTimeLapseStillOn retValue=false
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]begin cameraModeSupport  mode=ICH_MODE_VIDEO
+2023-04-09 21:08:45:045	 AppInfo:[CameraProperties]end cameraModeSupport retValue =true
+2023-04-09 21:08:45:045	 AppInfo:[PreviewStream]begin changePreviewMode previewMode=ICH_VIDEO_PREVIEW_MODE
+2023-04-09 21:08:46:046	 AppInfo:[PreviewStream]end changePreviewMode ret=true
+2023-04-09 21:08:46:046	 AppInfo:[PreviewPresenter]start startPreview ichVideoPreviewMode=ICH_VIDEO_PREVIEW_MODE
+2023-04-09 21:08:46:046	 AppInfo:[PreviewPresenter]start startPreview previewMode=3 isStreaming=false
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 20481
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]begin getRecordingRemainTimeInt
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]end hasFuction retValue =true
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]start getBatteryElectric
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]return recordingTime =3509
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]end getRecordingRemainTimeInt recordingTime =3509
+2023-04-09 21:08:46:046	 AppDebug:[PreviewPresenter]start startMediaStream
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]start getCurrentStreamInfo cameraConfiguration=com.icatch.wificam.customer.ICatchWificamProperty@7ea2f34
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]end getBatteryElectric electric =100
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]start getBatteryElectric
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]end getBatteryElectric electric =100
+2023-04-09 21:08:46:046	 AppDebug:[ThumbnailOperation]current setBatteryLevelIcon= 100
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]end getCurrentStreamInfo retValue = mineType: ;codec: 41;frameW: 640;frameH: 360;bitrate: 1200000;durationUs: 35000000;maxInputSize: 410528;csd_0_size: 0;csd_1_size: 0;csd_0: ;csd_1: ;
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 55214
+2023-04-09 21:08:46:046	 AppDebug:[PreviewPresenter]change Wifi Status：4
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]end hasFuction retValue =true
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]end getCurrentStreamInfo bestResolution =H264?W=640&H=360&BR=1200000&FPS=30&
+2023-04-09 21:08:46:046	 AppDebug:[PreviewPresenter]1123 start startMediaStream streamUrl=[H264?W=640&H=360&BR=1200000&FPS=30&]
+2023-04-09 21:08:46:046	 AppDebug:[ConnectCheckTimer]startCheck connectChecktimer=java.util.Timer@828781b
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]begin addEventListener eventID=17
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]start getPreviewCacheTime
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]end addEventListener retValue = true
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]begin addEventListener eventID=36
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]end addEventListener retValue = true
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]begin addEventListener eventID=34
+2023-04-09 21:08:46:046	 AppInfo:[CameraProperties]end getPreviewCacheTime retValue =204
+2023-04-09 21:08:46:046	 AppDebug:[PreviewPresenter]start startMediaStream setCacheRet=true cacheTime=204
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]end addEventListener retValue = true
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]begin addEventListener eventID=33
+2023-04-09 21:08:46:046	 AppInfo:[PreviewStream]begin startMediaStream param=IMPL=SDK;CODEC=MJPG;SIZE=false;Q=50;BR=5000000; disableAudio=true previewMode=ICH_VIDEO_PREVIEW_MODE
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]end addEventListener retValue = true
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]begin addEventListener eventID=82
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]end addEventListener retValue = true
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]begin addEventListener eventID=35
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]end addEventListener retValue = true
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]begin addEventListener eventID=1
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]end addEventListener retValue = true
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]begin addEventListener eventID=81
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]end addEventListener retValue = true
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]begin addEventListener eventID=20481
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]end addEventListener retValue = true
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]begin addEventListener eventID=103
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]end addEventListener retValue = true
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]begin addEventListener eventID=14081
+2023-04-09 21:08:46:046	 AppInfo:[CameraAction]end addEventListener retValue = true
+2023-04-09 21:08:46:046	 AppDebug:[WifiListener]连接到网络 "DiCam-810_65F963"
+2023-04-09 21:08:46:046	 AppDebug:[WifiListener]系统开启wifi
+2023-04-09 21:08:46:046	 AppDebug:[PreviewPresenter]change Wifi Status：4
+2023-04-09 21:08:46:046	 AppDebug:[LaunchActivity]onStop
+2023-04-09 21:08:47:047	 AppInfo:[PreviewStream]end startMediaStream retValue =NORMAL
+2023-04-09 21:08:47:047	 AppDebug:[PreviewActivity]startMPreview
+2023-04-09 21:08:47:047	 AppInfo:[MPreview]start preview hasSurface =false previewLaunchMode=2
+2023-04-09 21:08:47:047	 AppInfo:[PreviewStream]begin getVideoFormat
+2023-04-09 21:08:47:047	 AppInfo:[PreviewStream]end getVideoFormat videoFormat =mineType: video/avc;codec: 41;frameW: 640;frameH: 360;bitrate: 50000;durationUs: 35000000;maxInputSize: 410528;csd_0_size: 24;csd_1_size: 8;csd_0: 0 0 0 1 103 100 0 40 -84 -76 5 1 127 -53 8 0 0 125 0 0 29 76 4 32 ;csd_1: 0 0 0 1 104 -18 56 -80 ;
+2023-04-09 21:08:47:047	 AppDebug:[MPreview]init preview, VideoW =640 VideoH=360
+2023-04-09 21:08:47:047	 AppInfo:[PreviewPresenter]startMPreview
+2023-04-09 21:08:47:047	 AppDebug:[MPreview] change ....onLayout
+2023-04-09 21:08:47:047	 AppInfo:[MPreview]surfaceCreated hasSurface =false
+2023-04-09 21:08:47:047	 AppInfo:[MPreview]start startDecoderThread
+2023-04-09 21:08:47:047	 AppInfo:[PreviewStream]begin supportAudio
+2023-04-09 21:08:47:047	 AppInfo:[PreviewStream]end supportAudio retValue =false
+2023-04-09 21:08:47:047	 AppInfo:[MPreview]start startDecoderThread previewCodec=41 enableAudio=false
+2023-04-09 21:08:47:047	 AppInfo:[MPreview] surfaceDestroyed hasSurface =true
+2023-04-09 21:08:47:047	 AppInfo:[MPreview]stopMPreview preview
+2023-04-09 21:08:47:047	 AppInfo:[MPreview]end preview
+2023-04-09 21:08:47:047	 AppInfo:[MPreview]surfaceCreated hasSurface =false
+2023-04-09 21:08:47:047	 AppDebug:[MPreview] redrawBitmap
+2023-04-09 21:08:47:047	 AppDebug:[MPreview]start startDecoderThread.I'm coming......
+2023-04-09 21:08:47:047	 AppInfo:[H264DecoderThread]H264DecoderThread frameWidth=640
+2023-04-09 21:08:47:047	 AppInfo:[H264DecoderThread]H264DecoderThread frameHeight=360
+2023-04-09 21:08:47:047	 AppInfo:[H264DecoderThread]H264DecoderThread fps=30
+2023-04-09 21:08:47:047	 AppInfo:[H264DecoderThread]start
+2023-04-09 21:08:47:047	 AppInfo:[H264DecoderThread]create  MediaFormat videoFormat:mineType: video/avc;codec: 41;frameW: 640;frameH: 360;bitrate: 50000;durationUs: 35000000;maxInputSize: 410528;csd_0_size: 24;csd_1_size: 8;csd_0: 0 0 0 1 103 100 0 40 -84 -76 5 1 127 -53 8 0 0 125 0 0 29 76 4 32 ;csd_1: 0 0 0 1 104 -18 56 -80 ;
+2023-04-09 21:08:47:047	 AppInfo:[H264DecoderThread]create  MediaFormat videoFormat fps:30
+2023-04-09 21:08:47:047	 AppInfo:[H264DecoderThread]h264 videoFormat.getMineType()=video/avc
+2023-04-09 21:08:47:047	 AppDebug:[H264DecoderThread]end set format
+2023-04-09 21:08:47:047	 AppInfo:[MPreview]start setSurfaceViewArea frmW=640 frmH=360 mWidth=1080 mHeigth=1626
+2023-04-09 21:08:47:047	 AppInfo:[H264DecoderThread]h264 run for gettting surface image
+2023-04-09 21:08:47:047	 AppDebug:[MPreview]end setSurfaceViewArea
+2023-04-09 21:08:47:047	 AppInfo:[H264DecoderThread]get first Frame
+2023-04-09 21:08:47:047	 AppDebug:[MPreview] redrawBitmap
+2023-04-09 21:08:47:047	 AppDebug:[MPreview]start startDecoderThread.I'm coming......
+2023-04-09 21:08:47:047	 AppInfo:[MPreview]start setSurfaceViewArea frmW=640 frmH=360 mWidth=1080 mHeigth=1626
+2023-04-09 21:08:47:047	 AppDebug:[MPreview]end setSurfaceViewArea
+2023-04-09 21:08:47:047	 AppDebug:[MPreview] redrawBitmap
+2023-04-09 21:08:47:047	 AppDebug:[MPreview]start startDecoderThread.I'm coming......
+2023-04-09 21:08:47:047	 AppDebug:[MPreview] change ....onLayout
+2023-04-09 21:08:47:047	 AppInfo:[MPreview]start setSurfaceViewArea frmW=640 frmH=360 mWidth=1080 mHeigth=1626
+2023-04-09 21:08:47:047	 AppDebug:[MPreview]end setSurfaceViewArea
+2023-04-09 21:08:47:047	 AppDebug:[PreviewPresenter]change Wifi Status：4
+2023-04-09 21:08:47:047	 AppDebug:[H264DecoderThread]ok show image!.....................startTime= 195 frameSize=6 curVideoPts=0.167
+2023-04-09 21:08:47:047	 AppDebug:[PreviewStream]start savePvThumbnail 
+2023-04-09 21:08:47:047	 AppDebug:[BitmapTools]bitmapToByteArray bitmap size=921600
+2023-04-09 21:08:47:047	 AppDebug:[BitmapTools]bitmapToByteArray result size=6424
+2023-04-09 21:08:47:047	 AppDebug:[DatabaseHelper]updateCameraPhoto position=1
+2023-04-09 21:08:47:047	 AppDebug:[PreviewStream]End savePvThumbnail=true
+2023-04-09 21:08:48:048	 AppInfo:[PreviewPresenter]start createUIByMode previewMode=3
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin cameraModeSupport  mode=ICH_MODE_VIDEO
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end cameraModeSupport retValue =true
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 55082
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end hasFuction retValue =false
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin cameraModeSupport  mode=ICH_MODE_TIMELAPSE
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end cameraModeSupport retValue =false
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 20483
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end hasFuction retValue =true
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 20498
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end hasFuction retValue =true
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 55091
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end hasFuction retValue =false
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 20483
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end hasFuction retValue =true
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 54789
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end hasFuction retValue =true
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]start getCurrentStringPropertyValue propertyId = 54789
+2023-04-09 21:08:48:048	 AppError:[H264DecoderThread]getNextVideoFrame IchTryAgainException
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end getCurrentStringPropertyValue retValue =1920x1080 30
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin getRecordingRemainTimeInt
+2023-04-09 21:08:48:048	 AppError:[H264DecoderThread]getNextVideoFrame IchTryAgainException
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]return recordingTime =3509
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end getRecordingRemainTimeInt recordingTime =3509
+2023-04-09 21:08:48:048	 AppInfo:[PreviewActivity]setPreviewInfo info=FHD30/58:29
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 20504
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end hasFuction retValue =false
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 20485
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end hasFuction retValue =false
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 54804
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end hasFuction retValue =false
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 54805
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end hasFuction retValue =false
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 60928
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end hasFuction retValue =false
+2023-04-09 21:08:48:048	 AppInfo:[PropertyTypeInteger]TIMELAPSE_MODE has this fucntion! =false
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 60928
+2023-04-09 21:08:48:048	 AppInfo:[CameraProperties]end hasFuction retValue =false
+2023-04-09 21:08:48:048	 AppDebug:[MPreview] change ....onLayout
+2023-04-09 21:08:48:048	 AppInfo:[MPreview]start setSurfaceViewArea frmW=640 frmH=360 mWidth=1080 mHeigth=1626
+2023-04-09 21:08:48:048	 AppDebug:[MPreview]end setSurfaceViewArea
+2023-04-09 21:08:49:049	 AppDebug:[MWifiManager]getIp ip=192.168.1.1
+2023-04-09 21:08:49:049	 AppInfo:[PreviewActivity]click the v.getId() =2131230877
+
+_______________________________________________________Запись__________________________________________________________________
+2023-04-09 21:08:49:049	 AppInfo:[PreviewActivity]click the doCapture  -  Клик кнопки начало записи
+2023-04-09 21:08:49:049	 AppDebug:[PreviewPresenter]begin startOrStopCapture curMode=3  - Так понимаю это в каком режиме записывается
+2023-04-09 21:08:49:049	 AppInfo:[CameraProperties]begin isSDCardExist  - Запрос есть ли SDcard
+2023-04-09 21:08:49:049	 AppInfo:[CameraProperties]end isSDCardExist isReady =true  - Возращает что есть SDcard
+2023-04-09 21:08:49:049	 AppInfo:[CameraProperties]begin getRecordingRemainTimeInt  - Запрос сколько можно записывать
+2023-04-09 21:08:49:049	 AppInfo:[CameraProperties]return recordingTime =3509  - Возращает сколько можно записывать в сек
+2023-04-09 21:08:49:049	 AppInfo:[CameraProperties]end getRecordingRemainTimeInt recordingTime =3509
+2023-04-09 21:08:49:049	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 55077
+2023-04-09 21:08:49:049	 AppInfo:[CameraProperties]end hasFuction retValue =true
+2023-04-09 21:08:49:049	 AppInfo:[CameraProperties]start getCurrentPropertyValue propertyId = 55077
+2023-04-09 21:08:49:049	 AppInfo:[CameraProperties]end getCurrentPropertyValue retValue =0
+2023-04-09 21:08:49:049	 AppInfo:[CameraAction]begin startVideoCapture
+
+2023-04-09 21:08:50:050	 AppInfo:[CameraAction]end startVideoCapture ret =true
+2023-04-09 21:08:50:050	 AppInfo:[PreviewPresenter]startRecordingLapseTimeTimer(0)
+2023-04-09 21:08:50:050	 AppDebug:[PreviewPresenter]startVideoCaptureButtomChangeTimer videoCaptureButtomChangeTimer=null
+2023-04-09 21:08:50:050	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 55293
+2023-04-09 21:08:50:050	 AppInfo:[CameraProperties]end hasFuction retValue =true
+2023-04-09 21:08:50:050	 AppInfo:[PreviewPresenter]startRecordingLapseTimeTimer curMode=4
+2023-04-09 21:08:50:050	 AppInfo:[PreviewPresenter]startRecordingLapseTimeTimer
+2023-04-09 21:08:50:050	 AppInfo:[SDKEvent]--------------receive VideoRecordingTimeStartListener
+2023-04-09 21:08:50:050	 AppDebug:[PreviewPresenter]end processing for responsing captureBtn clicking
+2023-04-09 21:08:50:050	 AppDebug:[MPreview] change ....onLayout
+2023-04-09 21:08:50:050	 AppInfo:[PreviewPresenter]receive EVENT_VIDEO_RECORDING_TIME
+2023-04-09 21:08:50:050	 AppInfo:[CameraProperties]begin hasFuction query supportedPropertieList = 55293
+2023-04-09 21:08:50:050	 AppInfo:[CameraProperties]end hasFuction retValue =true
+2023-04-09 21:08:50:050	 AppInfo:[PreviewPresenter]startRecordingLapseTimeTimer curMode=4
+2023-04-09 21:08:50:050	 AppInfo:[PreviewPresenter]startRecordingLapseTimeTimer
+2023-04-09 21:08:50:050	 AppInfo:[MPreview]start setSurfaceViewArea frmW=640 frmH=360 mWidth=1080 mHeigth=1626
+2023-04-09 21:08:50:050	 AppDebug:[MPreview]end setSurfaceViewArea
+2023-04-09 21:08:50:050	 AppDebug:[MPreview] change ....onLayout
+2023-04-09 21:08:50:050	 AppInfo:[MPreview]start setSurfaceViewArea frmW=640 frmH=360 mWidth=1080 mHeigth=1626
+2023-04-09 21:08:50:050	 AppDebug:[MPreview]end setSurfaceViewArea
+2023-04-09 21:08:50:050	 AppDebug:[MPreview] change ....onLayout
+2023-04-09 21:08:50:050	 AppInfo:[MPreview]start setSurfaceViewArea frmW=640 frmH=360 mWidth=1080 mHeigth=1626
+2023-04-09 21:08:50:050	 AppDebug:[MPreview]end setSurfaceViewArea
+2023-04-09 21:08:50:050	 AppDebug:[PreviewPresenter]change Wifi Status：4
+
+2023-04-09 21:08:51:051	 AppDebug:[MPreview] change ....onLayout
+2023-04-09 21:08:51:051	 AppInfo:[MPreview]start setSurfaceViewArea frmW=640 frmH=360 mWidth=1080 mHeigth=1626
+2023-04-09 21:08:51:051	 AppDebug:[MPreview]end setSurfaceViewArea
+
+2023-04-09 21:08:52:052	 AppDebug:[MWifiManager]getIp ip=192.168.1.1
+2023-04-09 21:08:52:052	 AppDebug:[MPreview] change ....onLayout
+2023-04-09 21:08:52:052	 AppInfo:[MPreview]start setSurfaceViewArea frmW=640 frmH=360 mWidth=1080 mHeigth=1626
+2023-04-09 21:08:52:052	 AppDebug:[MPreview]end setSurfaceViewArea
+
+2023-04-09 21:08:53:053	 AppDebug:[MPreview] change ....onLayout
+2023-04-09 21:08:53:053	 AppInfo:[PreviewActivity]click the v.getId() =2131230877
+
+_______________________________________________________Конец запись__________________________________________________________________
+2023-04-09 21:08:53:053	 AppInfo:[PreviewActivity]click the doCapture   - Клик по кнопке конец записи
+2023-04-09 21:08:53:053	 AppDebug:[PreviewPresenter]begin startOrStopCapture curMode=4
+2023-04-09 21:08:53:053	 AppInfo:[CameraAction]begin stopVideoCapture
+2023-04-09 21:08:54:054	 AppInfo:[CameraAction]end stopVideoCapture ret =true
+
+_______________________________________________________Завершение всего__________________________________________________________________
+2023-04-09 21:08:54:054	 AppDebug:[PreviewPresenter]stopVideoCaptureButtomChangeTimer videoCaptureButtomChangeTimer=java.util.Timer@d9bb8ea
+2023-04-09 21:08:54:054	 AppInfo:[SDKEvent]--------------receive event:FileAddedListener arg0=eventID: 1; sessionID: 0; intValue1: 79; intValue2: 0; intValue2: 0; doubleValue1: 0.0; doubleValue2: 0.0; doubleValue3: 0.0; stringValue1: null; stringValue2: null; stringValue3: null; 
+2023-04-09 21:08:54:054	 AppInfo:[CameraProperties]start getCurrentStringPropertyValue propertyId = 54789
+2023-04-09 21:08:54:054	 AppInfo:[SDKEvent]--------------receive arg0.getIntValue1()=79
+2023-04-09 21:08:54:054	 AppInfo:[SDKEvent]--------------receive arg0.getIntValue2()=0
+2023-04-09 21:08:54:054	 AppInfo:[CameraProperties]end getCurrentStringPropertyValue retValue =1920x1080 30
+2023-04-09 21:08:54:054	 AppInfo:[SDKEvent]--------------receive arg0.getIntValue3()=0
+2023-04-09 21:08:54:054	 AppInfo:[CameraProperties]begin getRecordingRemainTimeInt
+2023-04-09 21:08:54:054	 AppInfo:[CameraProperties]return recordingTime =3506
+2023-04-09 21:08:54:054	 AppInfo:[CameraProperties]end getRecordingRemainTimeInt recordingTime =3506
+2023-04-09 21:08:54:054	 AppInfo:[PreviewActivity]setPreviewInfo info=FHD30/58:26
+2023-04-09 21:08:54:054	 AppDebug:[PreviewPresenter]end processing for responsing captureBtn clicking
+2023-04-09 21:08:54:054	 AppDebug:[MPreview] change ....onLayout
+2023-04-09 21:08:54:054	 AppInfo:[MPreview]start setSurfaceViewArea frmW=640 frmH=360 mWidth=1080 mHeigth=1626
+2023-04-09 21:08:54:054	 AppDebug:[MPreview]end setSurfaceViewArea
+2023-04-09 21:08:54:054	 AppDebug:[PreviewPresenter]change Wifi Status：4
+2023-04-09 21:08:54:054	 AppInfo:[PreviewPresenter]EVENT_FILE_ADDED
+2023-04-09 21:08:54:054	 AppInfo:[MPreview]start setSurfaceViewArea frmW=640 frmH=360 mWidth=1080 mHeigth=1626
+2023-04-09 21:08:54:054	 AppDebug:[MPreview]end setSurfaceViewArea
+2023-04-09 21:08:55:055	 AppDebug:[MWifiManager]getIp ip=192.168.1.1
+2023-04-09 21:08:56:056	 AppDebug:[PreviewPresenter]change Wifi Status：4
+2023-04-09 21:08:58:058	 AppDebug:[MWifiManager]getIp ip=192.168.1.1
+2023-04-09 21:08:59:059	 AppDebug:[PreviewPresenter]change Wifi Status：4
+2023-04-09 21:09:01:001	 AppDebug:[MWifiManager]getIp ip=192.168.1.1
+2023-04-09 21:09:02:002	 AppInfo:[MPreview] surfaceDestroyed hasSurface =true
+2023-04-09 21:09:02:002	 AppInfo:[MPreview]stopMPreview preview
+2023-04-09 21:09:02:002	 AppError:[H264DecoderThread]H264Decoder requestExitAndWait isAlive=true
+2023-04-09 21:09:02:002	 AppInfo:[H264DecoderThread]start decoder stop
+2023-04-09 21:09:02:002	 AppInfo:[H264DecoderThread]stopMPreview video thread
+2023-04-09 21:09:02:002	 AppInfo:[H264DecoderThread]stopMPreview video thread
+2023-04-09 21:09:02:002	 AppError:[H264DecoderThread]end  H264Decoder requestExitAndWait
+2023-04-09 21:09:02:002	 AppInfo:[MPreview]start stopMPreview h264DecoderThread.isAlive() =false
+2023-04-09 21:09:02:002	 AppInfo:[MPreview]end preview
+2023-04-09 21:09:02:002	 AppDebug:[PreviewActivity]1122 onStop
+2023-04-09 21:09:02:002	 AppDebug:[BasePresenter]is background activity=com.icatch.ismartdv2016.View.Activity.PreviewActivity@1a439d8
+2023-04-09 21:09:02:002	 AppInfo:[ExitApp]start exit activity activityList size=2
+2023-04-09 21:09:02:002	 AppInfo:[ExitApp]end exit System.exit
